@@ -1,2 +1,3 @@
-# CS-DTSSWE-portfolio
+# DegreeProject-DSA
+
 My Degree portfolio 
